@@ -16,13 +16,15 @@ namespace BankAccount
         /// <summary>
         /// Customer Id
         /// </summary>
-        //[Key]
+        
+        //[Key] Primary Key
         [Key]
         public int Id { get; set; }
 
         /// <summary>
         /// Customer Name
         /// </summary>
+        [StringLength(250)]
         public string Name { get; set; }
 
         /// <summary>

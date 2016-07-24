@@ -17,10 +17,17 @@ namespace BankAccount
         /// <summary>
         /// static private LastId shared by all account instances
         /// </summary>
-        private static int lastId = 0;
+        #endregion
+
+        #region Static
+
+        //private static int lastId = 0;
+
         #endregion
 
         #region Properties
+
+
         /// <summary>
         /// Account Id
         /// </summary>
@@ -41,6 +48,7 @@ namespace BankAccount
                 id = lastId + 1;
            }
         }*/
+        [Key]
         public int Id { get; private set; }
 
 
@@ -69,6 +77,7 @@ namespace BankAccount
             }
         }
 
+        public AccountTypes TypeOfAccount { get; set; }
         public virtual Customer Customer { get; set; }
         #endregion
 
@@ -77,15 +86,14 @@ namespace BankAccount
         ///  Constructor to rest property Id
         ///  Will be executed first when constructing class
         /// </summary>
-        public Account()  // if private,you cannot call new outside this class
+        //public Account()  // if private,you cannot call new outside this class
+        //{ 
+        /// Id from Account property
+        //  Id = ++lastId;
+        // }
+        public Account()
         {
-            // Id from Account property
-            Id = ++lastId;
-            Balance = 100;
-        }
-        public Account(int num)
-        {
-            Balance = num + 100;
+            Balance = 300;
         }
 
         #endregion
