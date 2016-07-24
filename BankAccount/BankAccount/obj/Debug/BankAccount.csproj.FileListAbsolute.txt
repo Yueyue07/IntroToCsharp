@@ -1,0 +1,36 @@
+c:\users\v-yueqin\documents\visual studio 2015\Projects\BankAccount\BankAccount\bin\Debug\BankAccount.exe.config
+c:\users\v-yueqin\documents\visual studio 2015\Projects\BankAccount\BankAccount\bin\Debug\BankAccount.exe
+c:\users\v-yueqin\documents\visual studio 2015\Projects\BankAccount\BankAccount\bin\Debug\BankAccount.pdb
+c:\users\v-yueqin\documents\visual studio 2015\Projects\BankAccount\BankAccount\obj\Debug\BankAccount.csprojResolveAssemblyReference.cache
+c:\users\v-yueqin\documents\visual studio 2015\Projects\BankAccount\BankAccount\obj\Debug\BankAccount.exe
+c:\users\v-yueqin\documents\visual studio 2015\Projects\BankAccount\BankAccount\obj\Debug\BankAccount.pdb
+C:\Users\v-yueqin\Desktop\BankAccount\BankAccount\bin\Debug\BankAccount.exe.config
+C:\Users\v-yueqin\Desktop\BankAccount\BankAccount\obj\Debug\BankAccount.exe
+C:\Users\v-yueqin\Desktop\BankAccount\BankAccount\obj\Debug\BankAccount.pdb
+C:\Users\v-yueqin\Desktop\BankAccount\BankAccount\bin\Debug\BankAccount.exe
+C:\Users\v-yueqin\Desktop\BankAccount\BankAccount\bin\Debug\BankAccount.pdb
+C:\Users\v-yueqin\Desktop\BankAccount\BankAccount\bin\Debug\EntityFramework.dll
+C:\Users\v-yueqin\Desktop\BankAccount\BankAccount\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\v-yueqin\Desktop\BankAccount\BankAccount\bin\Debug\EntityFramework.xml
+C:\Users\v-yueqin\Desktop\BankAccount\BankAccount\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\v-yueqin\Desktop\BankAccount\BankAccount\obj\Debug\BankAccount.csprojResolveAssemblyReference.cache
+C:\Users\v-yueqin\Desktop\kal_c_sharp\BankAccount\BankAccount\bin\Debug\BankAccount.exe.config
+C:\Users\v-yueqin\Desktop\kal_c_sharp\BankAccount\BankAccount\obj\Debug\BankAccount.exe
+C:\Users\v-yueqin\Desktop\kal_c_sharp\BankAccount\BankAccount\obj\Debug\BankAccount.pdb
+C:\Users\v-yueqin\Desktop\kal_c_sharp\BankAccount\BankAccount\bin\Debug\BankAccount.exe
+C:\Users\v-yueqin\Desktop\kal_c_sharp\BankAccount\BankAccount\bin\Debug\BankAccount.pdb
+C:\Users\v-yueqin\Desktop\kal_c_sharp\BankAccount\BankAccount\bin\Debug\EntityFramework.dll
+C:\Users\v-yueqin\Desktop\kal_c_sharp\BankAccount\BankAccount\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\v-yueqin\Desktop\kal_c_sharp\BankAccount\BankAccount\bin\Debug\EntityFramework.xml
+C:\Users\v-yueqin\Desktop\kal_c_sharp\BankAccount\BankAccount\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\v-yueqin\Desktop\kal_c_sharp\BankAccount\BankAccount\obj\Debug\BankAccount.csprojResolveAssemblyReference.cache
+C:\Users\v-yueqin\Desktop\kal_c_sharp\IntroToCsharp\BankAccount\BankAccount\bin\Debug\BankAccount.exe.config
+C:\Users\v-yueqin\Desktop\kal_c_sharp\IntroToCsharp\BankAccount\BankAccount\obj\Debug\BankAccount.exe
+C:\Users\v-yueqin\Desktop\kal_c_sharp\IntroToCsharp\BankAccount\BankAccount\obj\Debug\BankAccount.pdb
+C:\Users\v-yueqin\Desktop\kal_c_sharp\IntroToCsharp\BankAccount\BankAccount\bin\Debug\BankAccount.exe
+C:\Users\v-yueqin\Desktop\kal_c_sharp\IntroToCsharp\BankAccount\BankAccount\bin\Debug\BankAccount.pdb
+C:\Users\v-yueqin\Desktop\kal_c_sharp\IntroToCsharp\BankAccount\BankAccount\bin\Debug\EntityFramework.dll
+C:\Users\v-yueqin\Desktop\kal_c_sharp\IntroToCsharp\BankAccount\BankAccount\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\v-yueqin\Desktop\kal_c_sharp\IntroToCsharp\BankAccount\BankAccount\bin\Debug\EntityFramework.xml
+C:\Users\v-yueqin\Desktop\kal_c_sharp\IntroToCsharp\BankAccount\BankAccount\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\v-yueqin\Desktop\kal_c_sharp\IntroToCsharp\BankAccount\BankAccount\obj\Debug\BankAccount.csprojResolveAssemblyReference.cache
